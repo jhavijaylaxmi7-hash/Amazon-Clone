@@ -98,13 +98,14 @@ The following functionalities are **not implemented**:
 
 ## 📸 Screenshot
 
-You can add a screenshot of your project here after uploading it to GitHub.
+![Amazon Clone Screenshot](Screenshot1.png)
+![Amazon Clone Screenshot](Screenshot2.png)
 
 ---
 
 ## 👨‍💻 Author
 
-**Vijaylaxmi Jha**
+**Vijaylaxmi**
 
 Aspiring Frontend Web Developer
 
