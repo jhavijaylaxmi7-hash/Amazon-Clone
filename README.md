@@ -100,6 +100,8 @@ The following functionalities are **not implemented**:
 
 ![Amazon Clone Screenshot](Screenshot1.png)
 ![Amazon Clone Screenshot](Screenshot2.png)
+![Amazon Clone Screenshot](Screenshot3.png)
+
 
 ---
 
